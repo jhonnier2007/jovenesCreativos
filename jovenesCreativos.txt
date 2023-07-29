@@ -12,3 +12,5 @@ Apellido: bernal
 apodo: bella
 
 Día en el que fue creado el grupo: 29/07/2023...
+
+Opinión sobre la actividad (Mayferson): Es entretenida pero surgen muchos errores que incluso los monitores no saben solucionar
