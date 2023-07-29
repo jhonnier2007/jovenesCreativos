@@ -30,3 +30,5 @@ comienzo de explicacion programa*
 "ESTE ES EL TITULO PRINCIPAL"
 
 . SE DESPLIEGA EL MUNDO DE DESARROLLO PARA SU EDICION."
+
+"jovenes creativos es super"
