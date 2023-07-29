@@ -20,3 +20,6 @@ alert("congratulations")
 
 la informacion se añadira 
 la informacion se lee con los comandos 
+
+//commit 3
+<h1>inicio de pagina</h1>
