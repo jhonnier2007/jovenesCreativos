@@ -1,0 +1,12 @@
+Edad: 18
+Nombre: Mayferson
+Apellido: Vargas
+
+edad : 15
+name: alexander
+Apellido:castro
+
+Edad: 16
+name: isabella
+Apellido: bernal
+apodo: bella
