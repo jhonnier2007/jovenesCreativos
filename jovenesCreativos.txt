@@ -26,3 +26,5 @@ la informacion se lee con los comandos
 
 *se da la bienvenida 
 comienzo de explicacion programa*
+
+"ESTE ES EL TITULO PRINCIPAL"
