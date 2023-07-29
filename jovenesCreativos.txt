@@ -11,4 +11,4 @@ name: isabella
 Apellido: bernal
 apodo: bella
 
-Día en el que fue creado el grupo: 29/07/2023
+Día en el que fue creado el grupo: 29/07/2023...
