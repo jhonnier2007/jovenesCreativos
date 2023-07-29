@@ -17,3 +17,6 @@ apodo: bella
 <script>
 alert("congratulations")
 </script>
+
+la informacion se añadira 
+la informacion se lee con los comandos 
