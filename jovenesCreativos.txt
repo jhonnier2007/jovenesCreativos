@@ -10,3 +10,5 @@ Edad: 16
 name: isabella
 Apellido: bernal
 apodo: bella
+
+Día en el que fue creado el grupo: 29/07/2023
